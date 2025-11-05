@@ -2,7 +2,7 @@ module.exports.config = {
     name: "search",
     version: "1.0.0",
     hasPermssion: 0,
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credits: "🌺💚⭐_₷ขԲ𝔂𝓪𝓃_🌺💚⭐",
     description: "Search results on google",
     commandCategory: "info",
     usages: "search [Text]",
